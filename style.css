@@ -1,0 +1,23 @@
+/*
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+*/
+
+.title {
+	text-align: center;
+}
+
+.sub {
+	font-size: 10px;
+	font-style: italic;
+}
+
+.final {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+}
